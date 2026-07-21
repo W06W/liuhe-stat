@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cloudflared.exe
+*.xlsx
+start_server.py
+run.bat
+.streamlit/secrets.toml
